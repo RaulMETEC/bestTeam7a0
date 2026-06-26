@@ -23,7 +23,9 @@ const squads = [
   "https://7a0.com.br/squads/NED-1990-10593365.json",
   "https://7a0.com.br/squads/NED-1994-9414488e.json",
   "https://7a0.com.br/squads/GER-1990-e2d2e829.json",
-  "https://7a0.com.br/squads/GER-1966-b10682f2.json"
+  "https://7a0.com.br/squads/GER-1966-b10682f2.json",
+  "https://7a0.com.br/squads/ITA-1998-e83ce438.json",
+
 ];
 
 let requestCount = 0;
