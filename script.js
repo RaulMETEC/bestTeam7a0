@@ -25,7 +25,15 @@ const squads = [
   "https://7a0.com.br/squads/GER-1990-e2d2e829.json",
   "https://7a0.com.br/squads/GER-1966-b10682f2.json",
   "https://7a0.com.br/squads/ITA-1998-e83ce438.json",
-
+  "https://7a0.com.br/squads/ARG-1986-5d16a802.json",
+  "https://7a0.com.br/squads/ARG-2022-5aa0e1ee.json",
+  "https://7a0.com.br/squads/NED-1974-c81e07af.json",
+  "https://7a0.com.br/squads/GER-1974-36443d93.json",
+  "https://7a0.com.br/squads/BRA-1962-971e855a.json",
+  "https://7a0.com.br/squads/ENG-1966-3015d733.json",
+  "https://7a0.com.br/squads/ITA-1986-9e5cec96.json",
+  "https://7a0.com.br/squads/ITA-1990-375d41c5.json",
+  
 ];
 
 let requestCount = 0;
